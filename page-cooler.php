@@ -57,327 +57,327 @@ get_header();
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>3</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>11～12㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>4</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>13～14㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>5</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>17～19㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>7</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                    </tr>
-                    <tr class="p-cooler_wrap_table_wrap_tbody_tr">
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
+                            <span>24～26㎡</span>
                         </td>
                     </tr>
                     <tr class="p-cooler_wrap_table_wrap_tbody_tr">
                         <td>
                             <label>
-                                <h3>40</h3>
+                                <h3>45</h3>
                                 <p>系</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>1.8馬力相当</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>3.5</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>12～13㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>5</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>18～19㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>6</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>20～21㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>8</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                    </tr>
-                    <tr class="p-cooler_wrap_table_wrap_tbody_tr">
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
+                            <span>30～37㎡</span>
                         </td>
                     </tr>
                     <tr class="p-cooler_wrap_table_wrap_tbody_tr">
                         <td>
                             <label>
-                                <h3>40</h3>
+                                <h3>50</h3>
                                 <p>系</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>2馬力相当</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>4</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>13～14㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>5.5</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>18～19㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>6.5</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>22～23㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>9</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                    </tr>
-                    <tr class="p-cooler_wrap_table_wrap_tbody_tr">
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
+                            <span>30～37㎡</span>
                         </td>
                     </tr>
                     <tr class="p-cooler_wrap_table_wrap_tbody_tr">
                         <td>
                             <label>
-                                <h3>40</h3>
+                                <h3>56</h3>
                                 <p>系</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>2.3馬力相当</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>4.5</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>15～16㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>6</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>20～21㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>7</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>24～26㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>10</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                    </tr>
-                    <tr class="p-cooler_wrap_table_wrap_tbody_tr">
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
-                        </td>
-                        <td>
-                            <label>
-                                <h3>40</h3>
-                                <p>系</p>
-                            </label>
-                            <span>1.5馬力相当</span>
+                            <span>33～36㎡</span>
                         </td>
                     </tr>
                     <tr class="p-cooler_wrap_table_wrap_tbody_tr">
                         <td>
                             <label>
-                                <h3>40</h3>
+                                <h3>63</h3>
                                 <p>系</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>2.5馬力相当</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>5</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>17～19㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>6.5</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>22～23㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
-                                <p>系</p>
+                                <h3>8</h3>
+                                <p>坪</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>27～34㎡</span>
                         </td>
                         <td>
                             <label>
-                                <h3>40</h3>
+                                <h3>11</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>37～46㎡</span>
+                        </td>
+                    </tr>
+                    <tr class="p-cooler_wrap_table_wrap_tbody_tr">
+                        <td>
+                            <label>
+                                <h3>80</h3>
                                 <p>系</p>
                             </label>
-                            <span>1.5馬力相当</span>
+                            <span>3馬力相当</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>6.5</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>22～23㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>8.5</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>28～38㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>10.5</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>35～48㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>14</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>47～65㎡</span>
+                        </td>
+                    </tr>
+                    <tr class="p-cooler_wrap_table_wrap_tbody_tr">
+                        <td>
+                            <label>
+                                <h3>112</h3>
+                                <p>系</p>
+                            </label>
+                            <span>4馬力相当</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>9</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>30～37㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>12</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>39～47㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>15</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>49～60㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>20</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>66～81㎡</span>
+                        </td>
+                    </tr>
+                    <tr class="p-cooler_wrap_table_wrap_tbody_tr">
+                        <td>
+                            <label>
+                                <h3>140</h3>
+                                <p>系</p>
+                            </label>
+                            <span>5馬力相当</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>115</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>38～42㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>14.5</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>48～54㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>18.5</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>61～89㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>25</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>82～93㎡</span>
+                        </td>
+                    </tr>
+                    <tr class="p-cooler_wrap_table_wrap_tbody_tr">
+                        <td>
+                            <label>
+                                <h3>160</h3>
+                                <p>系</p>
+                            </label>
+                            <span>6馬力相当</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>13</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>43～70㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>16.5</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>55～70㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>21</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>90～103㎡</span>
+                        </td>
+                        <td>
+                            <label>
+                                <h3>28.5</h3>
+                                <p>坪</p>
+                            </label>
+                            <span>94～139㎡</span>
                         </td>
                     </tr>
                 </tbody>

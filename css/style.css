@@ -144,7 +144,6 @@ select::-ms-expand {
   line-height: 30px;
   text-align: center;
   font-weight: normal;
-  margin: 0 0 6px 0;
 }
 .p-cooler_wrap_table {
   width: -moz-max-content;
@@ -191,11 +190,11 @@ select::-ms-expand {
 }
 .p-cooler_wrap_table_wrap_tbody_tr_th_triangle p:first-child {
   top: 99px;
-  right: 43px;
+  right: 30px;
 }
 .p-cooler_wrap_table_wrap_tbody_tr_th_triangle p:last-child {
   bottom: 90px;
-  left: 24px;
+  left: 30px;
 }
 .p-cooler_wrap_table_wrap_tbody_tr_th img {
   width: 270px;
@@ -231,14 +230,20 @@ select::-ms-expand {
 .p-cooler_wrap_table_wrap_tbody_tr td:not(:last-child) {
   padding-bottom: 13px;
 }
+.p-cooler_wrap_table_wrap_tbody_tr td:first-child label h3 {
+  font-weight: bold;
+}
+.p-cooler_wrap_table_wrap_tbody_tr td:first-child label p {
+  font-weight: bold;
+}
 .p-cooler_wrap_table_wrap_tbody_tr td label {
   display: flex;
   justify-content: center;
+  align-items: baseline;
 }
 .p-cooler_wrap_table_wrap_tbody_tr td label h3 {
   font-size: 30px;
   line-height: 30px;
-  font-weight: bold;
   letter-spacing: 0.9px;
 }
 .p-cooler_wrap_table_wrap_tbody_tr td label p {

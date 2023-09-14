@@ -35,7 +35,6 @@
             line-height: 30px;
             text-align: center;
             font-weight: normal;
-            margin: 0 0 6px 0;
         }
 
         &_table {
@@ -85,11 +84,11 @@
                                     z-index: 1 !important;
                                     &:first-child {
                                         top: 99px;
-                                        right: 43px;
+                                        right: 30px;
                                     }
                                     &:last-child {
                                         bottom: 90px;
-                                        left: 24px;
+                                        left: 30px;
                                     }
                                 }
                             }
@@ -142,13 +141,23 @@
                             &:not(:last-child) {
                                 padding-bottom: 13px;
                             }
+                            &:first-child {
+                                label {
+                                    h3 {
+                                        font-weight: bold;
+                                    }
+                                    p {
+                                        font-weight: bold;
+                                    }
+                                }
+                            }
                             label {
                                 display: flex;
                                 justify-content: center;
+                                align-items: baseline;
                                 h3 {
                                     font-size: 30px;
                                     line-height: 30px;
-                                    font-weight: bold;
                                     letter-spacing: 0.9px;
                                 }
                                 p {
@@ -168,13 +177,12 @@
                 }
             }
             &_caution {
-                margin: 49px  0 0 0;
-                p{
+                margin: 49px 0 0 0;
+                p {
                     font-size: 16px;
                     line-height: 24px;
                     text-align: center;
                 }
-
             }
         }
     }
