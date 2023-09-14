@@ -31,6 +31,7 @@
             font-weight: bold;
         }
         h3 {
+            margin: 0 0 6px 0;
             font-size: 20px;
             line-height: 30px;
             text-align: center;
@@ -38,9 +39,15 @@
         }
 
         &_table {
-            width: max-content;
             margin: 0 auto;
+            overflow: auto;
+            overflow-x: scroll;
+            width: max-content;
+            @media screen and (max-width:1420px) {
+            width: inherit;
+        }
             &_wrap {
+                width: 1420px;
                 border-collapse: separate;
                 border-spacing: 13px 0;
                 &_tbody {
@@ -58,7 +65,14 @@
                         &_th {
                             position: relative;
                             padding-bottom: 14px;
+                            &:first-child {
+                                left: 0;
+                                position: sticky;
+                                z-index: 1;
+                            }
                             &_triangle {
+                                height: 396px;
+                                background-color: $white;
                                 &::before {
                                     content: "";
                                     position: absolute;
@@ -93,8 +107,8 @@
                                 }
                             }
                             img {
-                                width: 270px;
-                                height: 300px;
+                                max-width: 270px;
+                                max-height: 300px;
                             }
                             p {
                                 padding: 32px 30px;
@@ -142,6 +156,9 @@
                                 padding-bottom: 13px;
                             }
                             &:first-child {
+                                position: sticky;
+                                z-index: 1;
+                                left: 0;
                                 label {
                                     h3 {
                                         font-weight: bold;
@@ -176,13 +193,13 @@
                     }
                 }
             }
-            &_caution {
-                margin: 49px 0 0 0;
-                p {
-                    font-size: 16px;
-                    line-height: 24px;
-                    text-align: center;
-                }
+        }
+        &_caution {
+            margin: 49px 0 0 0;
+            p {
+                font-size: 16px;
+                line-height: 24px;
+                text-align: center;
             }
         }
     }

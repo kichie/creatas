@@ -26,9 +26,6 @@ get_header();
                                 <p>用途</p>
                                 <p>馬力数</p>
                             </div>
-                            <div class="p-cooler_wrap_table_wrap_tbody_tr_th_triangle2">
-                                <p>馬力数</p>
-                            </div>
                         </th>
                         <th class="p-cooler_wrap_table_wrap_tbody_tr_th">
                             <img src="<?php echo $theme_url ?>/images/cooler/restaurant.png">
@@ -382,14 +379,13 @@ get_header();
                     </tr>
                 </tbody>
             </table>
-            <div class="p-cooler_wrap_table_caution">
-                <p>
-                    古くなると能力ダウンで冷えなくなり、追加で買いたして結果的に高くついてしまうこともあります。<br>
-                    ワンランクアップの省エネ運転がお薦めです。
-                </p>
-            </div>
         </div>
-
+        <div class="p-cooler_wrap_caution">
+            <p>
+                古くなると能力ダウンで冷えなくなり、追加で買いたして結果的に高くついてしまうこともあります。<br>
+                ワンランクアップの省エネ運転がお薦めです。
+            </p>
+        </div>
     </div>
 </div>
 
