@@ -1,0 +1,181 @@
+.p-cooler {
+    &_wrap {
+        padding: 98px 0;
+        margin: 0 auto;
+        h2 {
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            label {
+                display: inline-block;
+                width: 68px;
+                font-size: 30px;
+                letter-spacing: -16.5px;
+                &:first-child {
+                    text-align: center;
+                }
+                &:last-child {
+                    text-align: left;
+                }
+            }
+            p {
+                font-size: 30px;
+                margin: 0 20px;
+            }
+        }
+        h1 {
+            margin: 44px 0 1px;
+            text-align: center;
+            font-size: 50px;
+            line-height: 75px;
+            font-weight: bold;
+        }
+        h3 {
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+            font-weight: normal;
+            margin: 0 0 6px 0;
+        }
+
+        &_table {
+            width: max-content;
+            margin: 0 auto;
+            &_wrap {
+                border-collapse: separate;
+                border-spacing: 13px 0;
+                &_tbody {
+                    &_tr {
+                        &:nth-child(odd) {
+                            td {
+                                background-color: #e4e7ec;
+                            }
+                        }
+                        &:nth-child(even) {
+                            td {
+                                background-color: #f8f8f8;
+                            }
+                        }
+                        &_th {
+                            position: relative;
+                            padding-bottom: 14px;
+                            &_triangle {
+                                &::before {
+                                    content: "";
+                                    position: absolute;
+                                    top: 0;
+                                    right: 0;
+                                    border-style: solid;
+                                    border-width: 0 262px 396px 0;
+                                    border-color: transparent #e4e7ec transparent transparent;
+                                }
+                                &::after {
+                                    content: "";
+                                    position: absolute;
+                                    bottom: 13px;
+                                    right: 0;
+                                    border-style: solid;
+                                    border-width: 396px 0 0 262px;
+                                    border-color: transparent transparent transparent #e4e7ec;
+                                }
+                                p {
+                                    position: absolute;
+                                    color: $black !important;
+                                    padding: 0 !important;
+                                    z-index: 1 !important;
+                                    &:first-child {
+                                        top: 99px;
+                                        right: 43px;
+                                    }
+                                    &:last-child {
+                                        bottom: 90px;
+                                        left: 24px;
+                                    }
+                                }
+                            }
+                            img {
+                                width: 270px;
+                                height: 300px;
+                            }
+                            p {
+                                padding: 32px 30px;
+                                font-size: 25px;
+                                line-height: 38px;
+                                font-weight: bold;
+                                letter-spacing: 0.75px;
+                                color: $white;
+                            }
+                            &:nth-child(1) {
+                                width: 261px;
+                            }
+                            &:nth-child(2) {
+                                p {
+                                    background: transparent linear-gradient(180deg, #28c2c0 0%, #2ed39b 100%) 0% 0%
+                                        no-repeat padding-box;
+                                }
+                            }
+                            &:nth-child(3) {
+                                p {
+                                    background: transparent linear-gradient(180deg, #9485e1 0%, #bd79cf 100%) 0% 0%
+                                        no-repeat padding-box;
+                                }
+                            }
+                            &:nth-child(4) {
+                                p {
+                                    background: transparent linear-gradient(180deg, #409ed7 0%, #28c2d7 100%) 0% 0%
+                                        no-repeat padding-box;
+                                }
+                            }
+                            &:nth-child(5) {
+                                p {
+                                    background: transparent linear-gradient(180deg, #ec7266 0%, #f88765 100%) 0% 0%
+                                        no-repeat padding-box;
+                                }
+                            }
+                            // &:not(:last-child) {
+                            //     padding-right: 13px;
+                            // }
+                        }
+                        td {
+                            padding: 20px 0 17px;
+                            text-align: center;
+                            &:not(:last-child) {
+                                padding-bottom: 13px;
+                            }
+                            label {
+                                display: flex;
+                                justify-content: center;
+                                h3 {
+                                    font-size: 30px;
+                                    line-height: 30px;
+                                    font-weight: bold;
+                                    letter-spacing: 0.9px;
+                                }
+                                p {
+                                    font-size: 20px;
+                                    line-height: 30px;
+                                    font-weight: bold;
+                                    letter-spacing: 0.6px;
+                                }
+                            }
+                            span {
+                                font-size: 16px;
+                                line-height: 24px;
+                                letter-spacing: 0.48px;
+                            }
+                        }
+                    }
+                }
+            }
+            &_caution {
+                margin: 49px  0 0 0;
+                p{
+                    font-size: 16px;
+                    line-height: 24px;
+                    text-align: center;
+                }
+
+            }
+        }
+    }
+}
