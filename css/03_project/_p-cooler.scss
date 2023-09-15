@@ -1,11 +1,35 @@
 .p-cooler {
+    .ta {
+        @include mq-max(ta) {
+            display: block;
+        }
+        @include mq-min(ta) {
+            display: none;
+        }
+    }
+    .pc {
+        @include mq-max(ta) {
+            display: none;
+        }
+        @include mq-min(ta) {
+            display: flex;
+        }
+    }
     &_wrap {
         padding: 98px 0;
         margin: 0 auto;
+        @include mq-max(sp) {
+            padding: 85px 0 50px;
+        }
         h2 {
-            margin: 0 auto;
             display: flex;
+            position: relative;
+            margin: 0 auto;
             justify-content: center;
+            font-weight: bold;
+            @include mq-max(ta) {
+                max-width: max-content;
+            }
             label {
                 display: inline-block;
                 width: 68px;
@@ -13,14 +37,33 @@
                 letter-spacing: -16.5px;
                 &:first-child {
                     text-align: center;
+                    @include mq-max(ta) {
+                        top: 0;
+                        left: 0;
+                        text-align: inherit;
+                    }
                 }
                 &:last-child {
                     text-align: left;
+                    @include mq-max(ta) {
+                        top: 0;
+                        right: 0;
+                    }
+                }
+                @include mq-max(ta) {
+                    position: absolute;
+                    width: 34px;
+                    font-size: 23px;
                 }
             }
             p {
                 font-size: 30px;
                 margin: 0 20px;
+                @include mq-max(ta) {
+                    margin: 0;
+                    font-size: 16px;
+                    text-align: center;
+                }
             }
         }
         h1 {
@@ -29,6 +72,11 @@
             font-size: 50px;
             line-height: 75px;
             font-weight: bold;
+            @include mq-max(ta) {
+                margin: 30px 0 10px;
+                font-size: 20px;
+                line-height: 30px;
+            }
         }
         h3 {
             margin: 0 0 6px 0;
@@ -36,6 +84,11 @@
             line-height: 30px;
             text-align: center;
             font-weight: normal;
+            @include mq-max(ta) {
+                margin: 0 14px 42px;
+                font-size: 16px;
+                line-height: 20px;
+            }
         }
 
         &_table {
@@ -43,13 +96,18 @@
             overflow: auto;
             overflow-x: scroll;
             width: max-content;
-            @media screen and (max-width:1420px) {
-            width: inherit;
-        }
+            @media screen and (max-width: 1420px) {
+                width: inherit;
+            }
             &_wrap {
                 width: 1420px;
                 border-collapse: separate;
                 border-spacing: 13px 0;
+                @include mq-max(ta) {
+                    width: max-content;
+                    margin: 0 auto;
+                    border-spacing: 5px 0;
+                }
                 &_tbody {
                     &_tr {
                         &:nth-child(odd) {
@@ -73,6 +131,9 @@
                             &_triangle {
                                 height: 396px;
                                 background-color: $white;
+                                @include mq-max(ta) {
+                                    height: 260px;
+                                }
                                 &::before {
                                     content: "";
                                     position: absolute;
@@ -81,6 +142,9 @@
                                     border-style: solid;
                                     border-width: 0 262px 396px 0;
                                     border-color: transparent #e4e7ec transparent transparent;
+                                    @include mq-max(ta) {
+                                        border-width: 0 84px 259px 0;
+                                    }
                                 }
                                 &::after {
                                     content: "";
@@ -90,36 +154,73 @@
                                     border-style: solid;
                                     border-width: 396px 0 0 262px;
                                     border-color: transparent transparent transparent #e4e7ec;
+                                    @include mq-max(ta) {
+                                        border-width: 250px 0 0 84px;
+                                    }
                                 }
                                 p {
                                     position: absolute;
-                                    color: $black !important;
                                     padding: 0 !important;
                                     z-index: 1 !important;
+                                    font-size: 25px;
+                                    line-height: 38px;
+                                    letter-spacing: .75x;
+                                    color: $black !important;
+                                    @include mq-max(ta) {
+                                        font-size: 16px;
+                                        line-height: 24px;
+                                        letter-spacing: .48px;
+                                    }
                                     &:first-child {
                                         top: 99px;
                                         right: 30px;
+                                        @include mq-max(ta) {
+                                            top: 10px;
+                                            right: 10px;
+                                        }
                                     }
                                     &:last-child {
                                         bottom: 90px;
                                         left: 30px;
+                                        @include mq-max(ta) {
+                                            bottom: 10px;
+                                            left: 10px;
+                                        }
                                     }
                                 }
                             }
                             img {
-                                max-width: 270px;
-                                max-height: 300px;
+                                width: 270px;
+                                height: 300px;
+                                object-fit: cover;
+                                @include mq-max(ta) {
+                                    width: 130px;
+                                    height: 196px;
+                                }
                             }
                             p {
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
                                 padding: 32px 30px;
                                 font-size: 25px;
                                 line-height: 38px;
                                 font-weight: bold;
                                 letter-spacing: 0.75px;
                                 color: $white;
+                                @include mq-max(ta) {
+                                    min-height: 62px;
+                                    padding: 11px 0;
+                                    font-size: 16px;
+                                    line-height: 20px;
+                                    letter-spacing: 0.48px;
+                                }
                             }
                             &:nth-child(1) {
-                                width: 261px;
+                                min-width: 261px;
+                                @include mq-max(ta) {
+                                    min-width: 90px;
+                                }
                             }
                             &:nth-child(2) {
                                 p {
@@ -152,6 +253,9 @@
                         td {
                             padding: 20px 0 17px;
                             text-align: center;
+                            @include mq-max(ta) {
+                                padding: 13px 0 10px !important;
+                            }
                             &:not(:last-child) {
                                 padding-bottom: 13px;
                             }
@@ -176,18 +280,34 @@
                                     font-size: 30px;
                                     line-height: 30px;
                                     letter-spacing: 0.9px;
+                                    @include mq-max(ta) {
+                                        margin: 0;
+                                        font-size: 19px;
+                                        line-height: 20px;
+                                        letter-spacing: 0.57px;
+                                    }
                                 }
                                 p {
                                     font-size: 20px;
                                     line-height: 30px;
                                     font-weight: bold;
                                     letter-spacing: 0.6px;
+                                    @include mq-max(ta) {
+                                        font-size: 13px;
+                                        line-height: 20px;
+                                        letter-spacing: 0.39px;
+                                    }
                                 }
                             }
                             span {
                                 font-size: 16px;
                                 line-height: 24px;
                                 letter-spacing: 0.48px;
+                                @include mq-max(ta) {
+                                    font-size: 12px;
+                                    line-height: 18px;
+                                    letter-spacing: 0.36px;
+                                }
                             }
                         }
                     }
@@ -196,10 +316,17 @@
         }
         &_caution {
             margin: 49px 0 0 0;
+            @include mq-max(ta) {
+                margin: 30px 0 0 0;
+            }
             p {
                 font-size: 16px;
                 line-height: 24px;
                 text-align: center;
+                @include mq-max(ta) {
+                    font-size: 12px;
+                    line-height: 18px;
+                }
             }
         }
     }

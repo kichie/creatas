@@ -9,9 +9,17 @@ get_header();
 
 <div class="p-cooler">
     <div class="p-cooler_wrap">
-        <h2>
+        <h2 class="pc">
             <label>◆◆◆</label>
             <p>ご希望の用途や広さを、下記の基準表の中から算定して下さい。</p>
+            <label>◆◆◆</label>
+        </h2>
+        <h2 class="ta">
+            <label>◆◆◆</label>
+            <p>
+                ご希望の用途や広さを、<br>
+                下記の基準表の中から算定して下さい。
+            </p>
             <label>◆◆◆</label>
         </h2>
         <h1>広さの目安(冷房時)</h1>
@@ -29,11 +37,13 @@ get_header();
                         </th>
                         <th class="p-cooler_wrap_table_wrap_tbody_tr_th">
                             <img src="<?php echo $theme_url ?>/images/cooler/restaurant.png">
-                            <p>レストラン・食堂</p>
+                            <p class="pc">レストラン・食堂</p>
+                            <p class="ta">レストラン<br>食堂</p>
                         </th>
                         <th class="p-cooler_wrap_table_wrap_tbody_tr_th">
                             <img src="<?php echo $theme_url ?>/images/cooler/cafe.png">
-                            <p>喫茶店・理容院</p>
+                            <p class="pc">喫茶店・理容院</p>
+                            <p class="ta">喫茶店<br>理容院</p>
                         </th>
                         <th class="p-cooler_wrap_table_wrap_tbody_tr_th">
                             <img src="<?php echo $theme_url ?>/images/cooler/shop.png">
@@ -381,8 +391,13 @@ get_header();
             </table>
         </div>
         <div class="p-cooler_wrap_caution">
-            <p>
+            <p class="pc">
                 古くなると能力ダウンで冷えなくなり、追加で買いたして結果的に高くついてしまうこともあります。<br>
+                ワンランクアップの省エネ運転がお薦めです。
+            </p>
+            <p class="ta">
+                古くなると能力ダウンで冷えなくなり、<br>
+                追加で買いたして結果的に高くついてしまうこともあります。<br>
                 ワンランクアップの省エネ運転がお薦めです。
             </p>
         </div>
