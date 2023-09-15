@@ -469,4 +469,23 @@ select::-ms-expand {
     font-size: 12px;
     line-height: 18px;
   }
+}
+
+.p-ice {
+  padding: 200px 0;
+  margin: 0 auto;
+}
+.p-ice_wrap h1 {
+  text-align: center;
+  font-size: 50px;
+  line-height: 75px;
+  font-weight: bold;
+  letter-spacing: 1.5px;
+}
+.p-ice_wrap_table {
+  margin: 18px 0 200px;
+}
+.p-ice_wrap_table_wrap_tbody_tr td {
+  font-size: 16px;
+  line-height: 24px;
 }/*# sourceMappingURL=style.css.map */

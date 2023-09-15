@@ -1,0 +1,28 @@
+.p-ice {
+    padding: 200px 0;
+    margin: 0 auto;
+    &_wrap {
+        h1 {
+            text-align: center;
+            font-size: 50px;
+            line-height: 75px;
+            font-weight: bold;
+            letter-spacing: 1.5px;
+        }
+        &_table {
+            margin: 18px 0 200px;
+            // width: 1400px;
+            &_wrap {
+                &_tbody {
+                    &_tr{
+                        td {
+                            font-size: 16px;
+                            line-height: 24px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
