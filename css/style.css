@@ -329,8 +329,8 @@ select::-ms-expand {
 }
 @media screen and (max-width: 1024px) {
   .p-cooler_wrap_table_wrap_tbody_tr_th_triangle p:last-child {
-    bottom: 10px;
-    left: 10px;
+    bottom: 23px;
+    left: 14px;
   }
 }
 .p-cooler_wrap_table_wrap_tbody_tr_th img {
@@ -358,7 +358,6 @@ select::-ms-expand {
 }
 @media screen and (max-width: 1024px) {
   .p-cooler_wrap_table_wrap_tbody_tr_th p {
-    min-height: 62px;
     padding: 11px 0;
     font-size: 16px;
     line-height: 20px;
