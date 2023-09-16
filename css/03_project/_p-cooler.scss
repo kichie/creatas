@@ -164,12 +164,12 @@
                                     z-index: 1 !important;
                                     font-size: 25px;
                                     line-height: 38px;
-                                    letter-spacing: .75x;
+                                    letter-spacing: 0.75x;
                                     color: $black !important;
                                     @include mq-max(ta) {
                                         font-size: 16px;
                                         line-height: 24px;
-                                        letter-spacing: .48px;
+                                        letter-spacing: 0.48px;
                                     }
                                     &:first-child {
                                         top: 99px;
@@ -237,12 +237,18 @@
                                 p {
                                     background: transparent linear-gradient(180deg, #409ed7 0%, #28c2d7 100%) 0% 0%
                                         no-repeat padding-box;
+                                    @include mq-max(ta) {
+                                        min-height: 62px;
+                                    }
                                 }
                             }
                             &:nth-child(5) {
                                 p {
                                     background: transparent linear-gradient(180deg, #ec7266 0%, #f88765 100%) 0% 0%
                                         no-repeat padding-box;
+                                    @include mq-max(ta) {
+                                        min-height: 62px;
+                                    }
                                 }
                             }
                             // &:not(:last-child) {

@@ -381,8 +381,18 @@ select::-ms-expand {
 .p-cooler_wrap_table_wrap_tbody_tr_th:nth-child(4) p {
   background: transparent linear-gradient(180deg, #409ed7 0%, #28c2d7 100%) 0% 0% no-repeat padding-box;
 }
+@media screen and (max-width: 1024px) {
+  .p-cooler_wrap_table_wrap_tbody_tr_th:nth-child(4) p {
+    min-height: 62px;
+  }
+}
 .p-cooler_wrap_table_wrap_tbody_tr_th:nth-child(5) p {
   background: transparent linear-gradient(180deg, #ec7266 0%, #f88765 100%) 0% 0% no-repeat padding-box;
+}
+@media screen and (max-width: 1024px) {
+  .p-cooler_wrap_table_wrap_tbody_tr_th:nth-child(5) p {
+    min-height: 62px;
+  }
 }
 .p-cooler_wrap_table_wrap_tbody_tr td {
   padding: 20px 0 17px;
