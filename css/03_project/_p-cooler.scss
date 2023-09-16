@@ -1,4 +1,55 @@
 .p-cooler {
+    /****----------
+    *****base
+    *****----------*/
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    button {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        outline: none;
+        padding: 0;
+        appearance: none;
+    }
+
+    p {
+        font-size: 1.6em;
+        line-height: 1.75em;
+    }
+
+    a {
+        display: block;
+        text-decoration: none;
+        transition: opacity 0.15s;
+        font-size: 1.6em;
+        line-height: 1.75em;
+        cursor: pointer;
+    }
+
+    li {
+        list-style: none;
+    }
+
+    table {
+        border-spacing: 0;
+    }
+
+    input[type="submit"] {
+        cursor: pointer;
+    }
+
+    select::-ms-expand {
+        display: none;
+    }
+    /****----------
+    *****base
+    *****----------*/
     .ta {
         @include mq-max(ta) {
             display: block;

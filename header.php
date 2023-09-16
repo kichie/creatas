@@ -25,6 +25,7 @@ $theme_url = get_template_directory_uri();
     </style>
 
     <!-- CSS -->
+    <link rel="stylesheet" href="<?php echo $theme_url; ?>/css/creatas.css">
     <link rel="stylesheet" href="<?php echo $theme_url; ?>/css/style.css">
 
     <!-- js -->
