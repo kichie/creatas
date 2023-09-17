@@ -193,12 +193,18 @@
                                 letter-spacing: 2px;
                                 font-weight: bold;
                                 color: $white;
+                                &:first-child {
+                                    background: #fbfbfb 0% 0% no-repeat padding-box !important;
+                                    color: $black;
+                                }
                                 &:nth-child(2) {
                                     position: sticky;
                                     left: 215px;
                                     z-index: 2;
                                     padding: 40px 0;
                                     border-right: 1px solid #c4c4c4;
+                                    color: $black;
+                                    background: #fbfbfb 0% 0% no-repeat padding-box !important;
                                 }
                             }
                         }
@@ -400,7 +406,7 @@
                                 position: sticky;
                                 z-index: 1;
                                 left: 0;
-
+                                background: #fbfbfb 0% 0% no-repeat padding-box;
                                 span {
                                     display: block;
                                     font-size: 12px;
@@ -419,6 +425,7 @@
                                 a {
                                     font-size: 16px;
                                     line-height: 24px;
+                                    letter-spacing: 0.48px;
                                 }
                                 img {
                                     width: 100px;

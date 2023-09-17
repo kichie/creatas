@@ -393,7 +393,6 @@ get_header();
                                 </td>
                                 <td rowspan="2">
                                     <a href="">SIM-S140XNB-LB2</a>
-                                    <a href="">IM-35M-2</a>
                                 </td>
                                 <td rowspan="2">
                                     ―
@@ -447,16 +446,10 @@ get_header();
                                     </span>
                                 </th>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
-                                </td>
-                                <td rowspan="2">
                                     <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic_sp">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/GALILEI.png" class="galilei_sp">
-                                </td>
-                                <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa_sp">
+                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -468,20 +461,10 @@ get_header();
                                     <span>10人</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-25M-2</a>
-                                    <a href="">IM-35M-2</a>
+                                    -
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">SIM-AS2500</a>
-                                    <a href="">SIM-AS3500</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A25KT5</a>
-                                    <a href="">FIC-A35KT5</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-25LMF</a>
-                                    <a href="">DRI-35LMF</a>
+                                    -
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -492,20 +475,9 @@ get_header();
                                     <span>20席</span>
                                     <span>20人</span>
                                 </th>
+                                <td rowspan="2">-</td>
                                 <td rowspan="2">
-                                    <a href="">IM-45M-2</a>
-                                    <a href="">IM-55M-2</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">SIM-AS4500</a>
-                                    <a href="">SIM-S5500B</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A45KT3</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-45LMF</a>
-                                    <a href="">DRI-55LMTF</a>
+                                    <a href="">CM-60A</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -517,20 +489,11 @@ get_header();
                                     <span>30人</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-65M-2</a>
-                                    <a href="">IM-75TM-1</a>
+                                    <a href="">SIM-C120B</a>
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">SIM-S6500B</a>
-                                    <a href="">SIM-S7500UB</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A65KV3</a>
-                                    <a href="">FIC-A75KT3</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-65LMF</a>
-                                    <a href="">FIC-A75KT3</a>
+                                    <a href="">CM-60A</a>
+                                    <a href="">CM-100K</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -542,20 +505,11 @@ get_header();
                                     <span>40人</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-95TM-1</a>
-                                    <a href="">IM-115M-1</a>
+                                    <a href="">SIM-C120B</a>
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">SIM-S9500B</a>
-                                    <a href="">SIM-S9500UB</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A95KV3</a>
-                                    <a href="">FIC-A95KT3</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-95LMTF</a>
-                                    <a href="">DRI-110LMV1</a>
+                                    <a href="">CM-100K</a>
+                                    <a href="">CM-100K-50</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -568,18 +522,11 @@ get_header();
                                     <span>60人</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-180DM-1-STN</a>
+                                    <a href="">SIM-C120LB</a>
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">SIM-S140XNB-LB2</a>
-                                    <a href="">IM-35M-2</a>
-                                </td>
-                                <td rowspan="2">
-                                    ―
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-110LM2-B</a>
-                                    <a href="">DRI-150LM2-B</a>
+                                    <a href="">CM-100K-50</a>
+                                    <a href="">CM-200K</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -591,19 +538,10 @@ get_header();
                                     <span>100人～</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-230M-1</a>
+                                    <a href="">SIM-AS240YN-FXB4</a>
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">SIM-S241VNB</a>
-                                    <a href="">SIM-S241VNSB</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A240KL2T</a>
-                                    <a href="">FIC-A240KV2S</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-210LM1-BS</a>
-                                    <a href="">DRI-230LM-SAB</a>
+                                    <a href="">CM-200K</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -613,7 +551,7 @@ get_header();
                     </table>
                     <table class="p-ice_wrap_table_sp_wrap_wrap">
                         <tbody class="p-ice_wrap_table_sp_wrap_wrap_tbody">
-                            <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
+                        <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th>
                                     <span>
                                         一般飲食<br>
@@ -626,16 +564,7 @@ get_header();
                                     </span>
                                 </th>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
-                                </td>
-                                <td rowspan="2">
                                     <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic_sp">
-                                </td>
-                                <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/GALILEI.png" class="galilei_sp">
-                                </td>
-                                <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa_sp">
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -646,22 +575,7 @@ get_header();
                                     <span>10席</span>
                                     <span>10人</span>
                                 </th>
-                                <td rowspan="2">
-                                    <a href="">IM-25M-2</a>
-                                    <a href="">IM-35M-2</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">SIM-AS2500</a>
-                                    <a href="">SIM-AS3500</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A25KT5</a>
-                                    <a href="">FIC-A35KT5</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-25LMF</a>
-                                    <a href="">DRI-35LMF</a>
-                                </td>
+                                <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">25㎏～45㎏</th>
@@ -671,21 +585,7 @@ get_header();
                                     <span>20席</span>
                                     <span>20人</span>
                                 </th>
-                                <td rowspan="2">
-                                    <a href="">IM-45M-2</a>
-                                    <a href="">IM-55M-2</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">SIM-AS4500</a>
-                                    <a href="">SIM-S5500B</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A45KT3</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-45LMF</a>
-                                    <a href="">DRI-55LMTF</a>
-                                </td>
+                                <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">45㎏～60㎏</th>
@@ -695,22 +595,7 @@ get_header();
                                     <span>30席</span>
                                     <span>30人</span>
                                 </th>
-                                <td rowspan="2">
-                                    <a href="">IM-65M-2</a>
-                                    <a href="">IM-75TM-1</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">SIM-S6500B</a>
-                                    <a href="">SIM-S7500UB</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A65KV3</a>
-                                    <a href="">FIC-A75KT3</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-65LMF</a>
-                                    <a href="">FIC-A75KT3</a>
-                                </td>
+                                <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">65㎏～75㎏</th>
@@ -721,20 +606,7 @@ get_header();
                                     <span>40人</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-95TM-1</a>
-                                    <a href="">IM-115M-1</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">SIM-S9500B</a>
-                                    <a href="">SIM-S9500UB</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A95KV3</a>
-                                    <a href="">FIC-A95KT3</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-95LMTF</a>
-                                    <a href="">DRI-110LMV1</a>
+                                    <a href="">SIM-F140B</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -747,18 +619,7 @@ get_header();
                                     <span>60人</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-180DM-1-STN</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">SIM-S140XNB-LB2</a>
-                                    <a href="">IM-35M-2</a>
-                                </td>
-                                <td rowspan="2">
-                                    ―
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-110LM2-B</a>
-                                    <a href="">DRI-150LM2-B</a>
+                                    <a href="">SIM-F140LB</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -770,19 +631,7 @@ get_header();
                                     <span>100人～</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-230M-1</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">SIM-S241VNB</a>
-                                    <a href="">SIM-S241VNSB</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">FIC-A240KL2T</a>
-                                    <a href="">FIC-A240KV2S</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">DRI-210LM1-BS</a>
-                                    <a href="">DRI-230LM-SAB</a>
+                                    <a href="">SIM-F140B</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
