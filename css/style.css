@@ -569,7 +569,6 @@
 }
 .p-ice_wrap_table_wrap {
   width: 1400px;
-  border: 1px solid #c4c4c4;
   border-collapse: separate;
 }
 .p-ice_wrap_table_wrap_tbody_tr td {
@@ -604,6 +603,9 @@
 .p-ice_wrap_table_wrap_tbody_tr td:not(:first-child) {
   min-width: 280px;
 }
+.p-ice_wrap_table_wrap_tbody_tr td:last-child {
+  border-right: 1px solid #c4c4c4;
+}
 .p-ice_wrap_table_wrap_tbody_tr_first_wrap img {
   width: 100px;
 }
@@ -612,8 +614,12 @@
   line-height: 22px;
   font-family: "Hiragino Kaku Gothic ProN";
 }
+.p-ice_wrap_table_wrap_tbody_tr:first-child td {
+  border-top: 1px solid #c4c4c4;
+}
 .p-ice_wrap_table_wrap_tbody_tr:first-child td:first-child {
   background: #fbfbfb 0% 0% no-repeat padding-box !important;
+  border-left: 1px solid #c4c4c4;
 }
 .p-ice_wrap_table_wrap_tbody_tr:first-child td:nth-child(2) {
   position: sticky;
@@ -643,6 +649,7 @@
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(3) td:first-child {
   background: #fbfbfb 0% 0% no-repeat padding-box !important;
   color: #000000;
+  border-left: 1px solid #c4c4c4;
 }
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(3) td:nth-child(2) {
   position: sticky;
@@ -655,6 +662,7 @@
 }
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(4) td:first-child {
   background: #fbfbfb 0% 0% no-repeat padding-box !important;
+  border-left: 1px solid #c4c4c4;
 }
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(4) td:nth-child(2) {
   position: sticky;
@@ -693,6 +701,7 @@
 }
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(8) td:first-child {
   background: #fbfbfb 0% 0% no-repeat padding-box !important;
+  border-left: 1px solid #c4c4c4;
 }
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(8) td:nth-child(2) {
   position: sticky;
@@ -713,15 +722,19 @@
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(9) td:nth-child(4) {
   padding: 40px 0;
 }
+.p-ice_wrap_table_wrap_tbody_tr:nth-child(10) td {
+  border-bottom: 1px solid #c4c4c4;
+}
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(10) td:first-child {
+  border-left: 1px solid #c4c4c4;
   background: #fbfbfb 0% 0% no-repeat padding-box !important;
 }
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(10) td:nth-child(2) {
+  border-right: 1px solid #c4c4c4;
   position: sticky;
   left: 215px;
   z-index: 2;
   background: #fbfbfb 0% 0% no-repeat padding-box !important;
-  border-right: 1px solid #c4c4c4;
 }
 .p-ice_wrap_table_wrap_tbody_tr:nth-child(10) td:nth-child(5) {
   padding: 40px 0;
@@ -997,6 +1010,7 @@
   font-size: 17px;
   line-height: 30px;
   font-weight: bold;
+  text-wrap: nowrap;
 }
 @media screen and (max-width: 1024px) {
   .p-ice_wrap_save_caution p {
