@@ -73,10 +73,10 @@ get_header();
                             <a href="">IM-115M-1</a>
                         </td>
                         <td>
-                            <a href="">IM-180DM-1-STN</a>
+                            <a href="">IM-180DN-STN</a>
                         </td>
                         <td>
-                            <a href="">IM-230M-1</a>
+                            <a href="">IM-230N</a>
                         </td>
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
@@ -96,8 +96,8 @@ get_header();
                             <a href="">SIM-S7500UB</a>
                         </td>
                         <td>
-                            <a href="">SIM-AS4500</a>
-                            <a href="">SIM-S5500B</a>
+                            <a href="">SIM-S9500B</a>
+                            <a href="">SIM-S9500UB</a>
                         </td>
                         <td>
                             <a href="">SIM-S140XNB-LB2</a>
@@ -123,12 +123,12 @@ get_header();
                             <a href="">FIC-A75KT3</a>
                         </td>
                         <td>
-                            <a href="">FIC-A95KV3</a>
                             <a href="">FIC-A95KT3</a>
+                            <a href="">FIC-A95KV3</a>
                         </td>
                         <td>-</td>
                         <td>
-                            <a href="">FIC-A240KL2T</a>
+                            <a href="">FIC-A240KL3T</a>
                             <a href="">FIC-A240KV2S</a>
                         </td>
                     </tr>
@@ -145,8 +145,8 @@ get_header();
                             <a href="">DRI-55LMTF</a>
                         </td>
                         <td>
-                            <a href="">DRI-65LMF</a>
-                            <a href="">FIC-A75KT3</a>
+                            <a href="">DRI-65LMTF</a>
+                            <a href="">DRI-75LMVF</a>
                         </td>
                         <td>
                             <a href="">DRI-95LMTF</a>
@@ -162,7 +162,7 @@ get_header();
                         </td>
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
-                        <td rowspan="2" class="p-ice_wrap_table_wrap_tbody_tr_first">
+                        <td rowspan="3" class="p-ice_wrap_table_wrap_tbody_tr_first">
                             <div class="p-ice_wrap_table_wrap_tbody_tr_first_wrap">
                                 <img src="<?php echo $theme_url ?>/images/icemaker/tipice.png">
                                 <span>チップアイス</span>
@@ -171,11 +171,9 @@ get_header();
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
                             <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic">
                         </td>
+                        <td rowspan="3">-</td>
+                        <td rowspan="3">-</td>
                         <td>-</td>
-                        <td>-</td>
-                        <td>
-                            <a href="">SIM-C120B</a>
-                        </td>
                         <td>
                             <a href="">SIM-C120B</a>
                         </td>
@@ -183,35 +181,43 @@ get_header();
                             <a href="">SIM-C120LB</a>
                         </td>
                         <td>
-                            <a href="">SIM-AS240YN-FXB4</a>
+                            <a href="">SIM-AS240YN-FUB4</a>
+                        </td>
+                    </tr>
+                    <tr class="p-ice_wrap_table_wrap_tbody_tr">
+                        <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
+                            <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa">
+                        </td>
+                        <td>-</td>
+                        <td>
+                            <a href="">DRI-120LC2</a>
+                        </td>
+                        <td>
+                            <a href="">DRI-120LC2-70</a>
+                        </td>
+                        <td>
+                            <a href="">DRI-300LC-SKBF</a>
+                            <a href="">CM-100K-50</a>
                         </td>
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
                             <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki">
                         </td>
+                        <td>
+                            <a href="">CM-60A</a>
+                        </td>
+                        <td>
+                            <a href="">CM-100K</a>
+                            <a href="">CM-100K-50</a>
+                        </td>
                         <td>-</td>
-                        <td>
-                            <a href="">CM-60A</a>
-                        </td>
-                        <td>
-                            <a href="">CM-60A</a>
-                            <a href="">CM-100K</a>
-                        </td>
-                        <td>
-                            <a href="">CM-100K</a>
-                            <a href="">CM-100K-50</a>
-                        </td>
-                        <td>
-                            <a href="">CM-100K-50</a>
-                            <a href="">CM-200K</a>
-                        </td>
                         <td>
                             <a href="">CM-200K</a>
                         </td>
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
-                        <td rowspan="2" class="p-ice_wrap_table_wrap_tbody_tr_first">
+                        <td rowspan="3" class="p-ice_wrap_table_wrap_tbody_tr_first">
                             <div class="p-ice_wrap_table_wrap_tbody_tr_first_wrap">
                                 <img src="<?php echo $theme_url ?>/images/icemaker/flakeice.png">
                                 <span>フレークアイス</span>
@@ -220,14 +226,38 @@ get_header();
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
                             <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic">
                         </td>
-                        <td>-</td>
-                        <td>-</td>
-                        <td>-</td>
+                        <td rowspan="3">-</td>
+                        <td rowspan="3">-</td>
+                        <td rowspan="3">-</td>
                         <td>
-                            <a href="">SIM-F140B</a>
+                            <a href="">SIM-C140B</a>
                         </td>
                         <td>
                             <a href="">SIM-F140LB</a>
+                        </td>
+                        <td>
+                            <a href="">-</a>
+                        </td>
+                    </tr>
+                    <tr class="p-ice_wrap_table_wrap_tbody_tr">
+                        <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
+                            <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa">
+                        </td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>
+                            <a href="">DRI-340LF-SKBF</a>
+                        </td>
+                    </tr>
+                    <tr class="p-ice_wrap_table_wrap_tbody_tr">
+                        <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
+                            <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki">
+                        </td>
+                        <td>
+                            <a href="">FM-120K</a>
+                        </td>
+                        <td>
+                            <a href="">FM-120K-50</a>
                         </td>
                         <td>-</td>
                     </tr>
@@ -350,8 +380,8 @@ get_header();
                                     <a href="">FIC-A75KT3</a>
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">DRI-65LMF</a>
-                                    <a href="">FIC-A75KT3</a>
+                                    <a href="">DRI-65LMTF</a>
+                                    <a href="">DRI-75LMVF</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -371,8 +401,8 @@ get_header();
                                     <a href="">SIM-S9500UB</a>
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">FIC-A95KV3</a>
                                     <a href="">FIC-A95KT3</a>
+                                    <a href="">FIC-A95KV3</a>
                                 </td>
                                 <td rowspan="2">
                                     <a href="">DRI-95LMTF</a>
@@ -389,14 +419,12 @@ get_header();
                                     <span>60人</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-180DM-1-STN</a>
+                                    <a href="">IM-180DN-STN</a>
                                 </td>
                                 <td rowspan="2">
                                     <a href="">SIM-S140XNB-LB2</a>
                                 </td>
-                                <td rowspan="2">
-                                    ―
-                                </td>
+                                <td rowspan="2">―</td>
                                 <td rowspan="2">
                                     <a href="">DRI-110LM2-B</a>
                                     <a href="">DRI-150LM2-B</a>
@@ -411,14 +439,14 @@ get_header();
                                     <span>100人～</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">IM-230M-1</a>
+                                    <a href="">IM-230N</a>
                                 </td>
                                 <td rowspan="2">
                                     <a href="">SIM-S241VNB</a>
                                     <a href="">SIM-S241VNSB</a>
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">FIC-A240KL2T</a>
+                                    <a href="">FIC-A240KL3T</a>
                                     <a href="">FIC-A240KV2S</a>
                                 </td>
                                 <td rowspan="2">
@@ -446,10 +474,13 @@ get_header();
                                     </span>
                                 </th>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic_sp">
+                                    <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
+                                    <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png">
+                                </td>
+                                <td rowspan="2">
+                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png">
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -466,6 +497,9 @@ get_header();
                                 <td rowspan="2">
                                     -
                                 </td>
+                                <td rowspan="2">
+                                    -
+                                </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">25㎏～45㎏</th>
@@ -475,6 +509,7 @@ get_header();
                                     <span>20席</span>
                                     <span>20人</span>
                                 </th>
+                                <td rowspan="2">-</td>
                                 <td rowspan="2">-</td>
                                 <td rowspan="2">
                                     <a href="">CM-60A</a>
@@ -488,13 +523,9 @@ get_header();
                                     <span>30席</span>
                                     <span>30人</span>
                                 </th>
-                                <td rowspan="2">
-                                    <a href="">SIM-C120B</a>
-                                </td>
-                                <td rowspan="2">
-                                    <a href="">CM-60A</a>
-                                    <a href="">CM-100K</a>
-                                </td>
+                                <td rowspan="2">-</td>
+                                <td rowspan="2">-</td>
+                                <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">65㎏～75㎏</th>
@@ -506,6 +537,9 @@ get_header();
                                 </th>
                                 <td rowspan="2">
                                     <a href="">SIM-C120B</a>
+                                </td>
+                                <td rowspan="2">
+                                    <a href="">DRI-120LC2</a>
                                 </td>
                                 <td rowspan="2">
                                     <a href="">CM-100K</a>
@@ -525,9 +559,9 @@ get_header();
                                     <a href="">SIM-C120LB</a>
                                 </td>
                                 <td rowspan="2">
-                                    <a href="">CM-100K-50</a>
-                                    <a href="">CM-200K</a>
+                                    <a href="">DRI-120LC2-70</a>
                                 </td>
+                                <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">130㎏～</th>
@@ -538,7 +572,10 @@ get_header();
                                     <span>100人～</span>
                                 </th>
                                 <td rowspan="2">
-                                    <a href="">SIM-AS240YN-FXB4</a>
+                                    <a href="">SIM-AS240YN-FUB4</a>
+                                </td>
+                                <td rowspan="2">
+                                    <a href="">DRI-300LC-SKBF</a>
                                 </td>
                                 <td rowspan="2">
                                     <a href="">CM-200K</a>
@@ -551,7 +588,7 @@ get_header();
                     </table>
                     <table class="p-ice_wrap_table_sp_wrap_wrap">
                         <tbody class="p-ice_wrap_table_sp_wrap_wrap_tbody">
-                        <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
+                            <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th>
                                     <span>
                                         一般飲食<br>
@@ -566,6 +603,12 @@ get_header();
                                 <td rowspan="2">
                                     <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic_sp">
                                 </td>
+                                <td rowspan="2">
+                                    <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa_sp">
+                                </td>
+                                <td rowspan="2">
+                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
+                                </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">製氷能力 / 日</th>
@@ -575,6 +618,8 @@ get_header();
                                     <span>10席</span>
                                     <span>10人</span>
                                 </th>
+                                <td rowspan="2">-</td>
+                                <td rowspan="2">-</td>
                                 <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -586,6 +631,8 @@ get_header();
                                     <span>20人</span>
                                 </th>
                                 <td rowspan="2">-</td>
+                                <td rowspan="2">-</td>
+                                <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">45㎏～60㎏</th>
@@ -595,6 +642,8 @@ get_header();
                                     <span>30席</span>
                                     <span>30人</span>
                                 </th>
+                                <td rowspan="2">-</td>
+                                <td rowspan="2">-</td>
                                 <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -607,6 +656,10 @@ get_header();
                                 </th>
                                 <td rowspan="2">
                                     <a href="">SIM-F140B</a>
+                                </td>
+                                <td rowspan="2">-</td>
+                                <td rowspan="2">
+                                    <a href="">FM-120K</a>
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -621,6 +674,10 @@ get_header();
                                 <td rowspan="2">
                                     <a href="">SIM-F140LB</a>
                                 </td>
+                                <td rowspan="2">-</td>
+                                <td rowspan="2">
+                                    <a href="">FM-120K-50</a>
+                                </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">130㎏～</th>
@@ -630,9 +687,11 @@ get_header();
                                     <span>100～</span>
                                     <span>100人～</span>
                                 </th>
+                                <td rowspan="2">-</td>
                                 <td rowspan="2">
-                                    <a href="">SIM-F140B</a>
+                                    <a href="">DRI-340LF-SKBF</a>
                                 </td>
+                                <td rowspan="2">-</td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
                                 <th class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr_thbg">200㎏～</th>
