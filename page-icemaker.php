@@ -49,12 +49,12 @@ get_header();
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td rowspan="4" class="p-ice_wrap_table_wrap_tbody_tr_first">
                             <div class="p-ice_wrap_table_wrap_tbody_tr_first_wrap">
-                                <img src="<?php echo $theme_url ?>/images/icemaker/cubeice.png">
+                                <img src="/user_data/img/icemaker/cubeice.png">
                                 <span>キューブアイス</span>
                             </div>
                         </td>
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki">
+                            <img src="/user_data/img/icemaker/HOSHIZAKI.png" class="hosizaki">
                         </td>
                         <td>
                             <a href="https://www.shop.creatas.biz/products/detail43090.html">IM-25M-2</a>
@@ -81,7 +81,7 @@ get_header();
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic">
+                            <img src="/user_data/img/icemaker/panasonic.png" class="panasonic">
                         </td>
                         <td>
                             <a href="https://www.shop.creatas.biz/products/detail63882.html">SIM-AS2500</a>
@@ -109,7 +109,7 @@ get_header();
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/GALILEI.png" class="galilei">
+                            <img src="/user_data/img/icemaker/GALILEI.png" class="galilei">
                         </td>
                         <td>
                             <a href="https://www.shop.creatas.biz/products/detail63881.html">FIC-A25KT5</a>
@@ -134,7 +134,7 @@ get_header();
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa">
+                            <img src="/user_data/img/icemaker/DAIWA.png" class="daiwa">
                         </td>
                         <td>
                             <a href="https://www.shop.creatas.biz/products/detail63884.html">DRI-25LMF</a>
@@ -164,12 +164,12 @@ get_header();
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td rowspan="3" class="p-ice_wrap_table_wrap_tbody_tr_first">
                             <div class="p-ice_wrap_table_wrap_tbody_tr_first_wrap">
-                                <img src="<?php echo $theme_url ?>/images/icemaker/tipice.png">
+                                <img src="/user_data/img/icemaker/tipice.png">
                                 <span>チップアイス</span>
                             </div>
                         </td>
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic">
+                            <img src="/user_data/img/icemaker/panasonic.png" class="panasonic">
                         </td>
                         <td rowspan="3">-</td>
                         <td rowspan="3">-</td>
@@ -186,7 +186,7 @@ get_header();
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa">
+                            <img src="/user_data/img/icemaker/DAIWA.png" class="daiwa">
                         </td>
                         <td>-</td>
                         <td>
@@ -202,7 +202,7 @@ get_header();
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki">
+                            <img src="/user_data/img/icemaker/HOSHIZAKI.png" class="hosizaki">
                         </td>
                         <td>
                             <a href="">CM-60A</a>
@@ -219,12 +219,12 @@ get_header();
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td rowspan="3" class="p-ice_wrap_table_wrap_tbody_tr_first">
                             <div class="p-ice_wrap_table_wrap_tbody_tr_first_wrap">
-                                <img src="<?php echo $theme_url ?>/images/icemaker/flakeice.png">
+                                <img src="/user_data/img/icemaker/flakeice.png">
                                 <span>フレークアイス</span>
                             </div>
                         </td>
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic">
+                            <img src="/user_data/img/icemaker/panasonic.png" class="panasonic">
                         </td>
                         <td rowspan="3">-</td>
                         <td rowspan="3">-</td>
@@ -241,7 +241,7 @@ get_header();
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa">
+                            <img src="/user_data/img/icemaker/DAIWA.png" class="daiwa">
                         </td>
                         <td>-</td>
                         <td>-</td>
@@ -251,7 +251,7 @@ get_header();
                     </tr>
                     <tr class="p-ice_wrap_table_wrap_tbody_tr">
                         <td class="p-ice_wrap_table_wrap_tbody_tr_logo">
-                            <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki">
+                            <img src="/user_data/img/icemaker/HOSHIZAKI.png" class="hosizaki">
                         </td>
                         <td>
                             <a href="">FM-120K</a>
@@ -267,17 +267,17 @@ get_header();
             <div class="p-ice_wrap_table_sp ta">
                 <ul class="p-ice_wrap_table_sp_ul">
                     <li class="p-ice_wrap_table_sp_ul_tab is-tab-active">
-                        <img src="<?php echo $theme_url ?>/images/icemaker/cubeice.png">
+                        <img src="/user_data/img/icemaker/cubeice.png">
                         <span>キューブアイス</span>
                         <label></label>
                     </li>
                     <li class="p-ice_wrap_table_sp_ul_tab">
-                        <img src="<?php echo $theme_url ?>/images/icemaker/tipice.png">
+                        <img src="/user_data/img/icemaker/tipice.png">
                         <span>チップアイス</span>
                         <label></label>
                     </li>
                     <li class="p-ice_wrap_table_sp_ul_tab">
-                        <img src="<?php echo $theme_url ?>/images/icemaker/flakeice.png">
+                        <img src="/user_data/img/icemaker/flakeice.png">
                         <span>フレークアイス</span>
                         <label></label>
                     </li>
@@ -298,16 +298,16 @@ get_header();
                                     </span>
                                 </th>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
+                                    <img src="/user_data/img/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic_sp">
+                                    <img src="/user_data/img/icemaker/panasonic.png" class="panasonic_sp">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/GALILEI.png" class="galilei_sp">
+                                    <img src="/user_data/img/icemaker/GALILEI.png" class="galilei_sp">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa_sp">
+                                    <img src="/user_data/img/icemaker/DAIWA.png" class="daiwa_sp">
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -474,13 +474,13 @@ get_header();
                                     </span>
                                 </th>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png">
+                                    <img src="/user_data/img/icemaker/panasonic.png">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png">
+                                    <img src="/user_data/img/icemaker/DAIWA.png">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png">
+                                    <img src="/user_data/img/icemaker/HOSHIZAKI.png">
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -601,13 +601,13 @@ get_header();
                                     </span>
                                 </th>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/panasonic.png" class="panasonic_sp">
+                                    <img src="/user_data/img/icemaker/panasonic.png" class="panasonic_sp">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/DAIWA.png" class="daiwa_sp">
+                                    <img src="/user_data/img/icemaker/DAIWA.png" class="daiwa_sp">
                                 </td>
                                 <td rowspan="2">
-                                    <img src="<?php echo $theme_url ?>/images/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
+                                    <img src="/user_data/img/icemaker/HOSHIZAKI.png" class="hosizaki_sp">
                                 </td>
                             </tr>
                             <tr class="p-ice_wrap_table_sp_wrap_wrap_tbody_tr">
@@ -704,7 +704,7 @@ get_header();
 
         </div>
         <div class="p-ice_wrap_save">
-            <img class="p-ice_wrap_save_losscut" src="<?php echo $theme_url ?>/images/icemaker/losscut.png">
+            <img class="p-ice_wrap_save_losscut" src="/user_data/img/icemaker/losscut.png">
             <p class="p-ice_wrap_save_text">
                 製氷に必要な2大コスト、<br class="ta">
                 <span>水</span>と<span>電気</span>の使用を抑えるために、<br>
@@ -713,13 +713,13 @@ get_header();
                 大幅にアップさせました。
             </p>
             <div class="p-ice_wrap_save_wrap">
-                <img src="<?php echo $theme_url ?>/images/icemaker/savewater.png">
+                <img src="/user_data/img/icemaker/savewater.png">
                 <i class="p-ice_wrap_save_wrap_plus"></i>
-                <img src="<?php echo $theme_url ?>/images/icemaker/saveenergy.png">
+                <img src="/user_data/img/icemaker/saveenergy.png">
             </div>
             <div class="p-ice_wrap_save_runcost">
                 <h1>年間ランニングコスト比較</h1>
-                <img src="<?php echo $theme_url ?>/images/icemaker/runningcost.png">
+                <img src="/user_data/img/icemaker/runningcost.png">
                 <p>
                     ※HOSHIZAKI代表機(IM-25M-2による)の場合。数値は機種により異なります。<br>
                     [条件]周囲温度：20℃ / 水温：15℃　50Hz地区　※1日18kgの氷を使用した場合。1年365日として計算。<br>
@@ -743,9 +743,10 @@ get_header();
                     新品・メーカー保証付きの<br class="ta">
                     ご購入は <a href="">こちら</a> から。
                 </span>
-                <img src="<?php echo $theme_url ?>/images/icemaker/insurance.png">
+                <img src="/user_data/img/icemaker/insurance.png">
             </div>
         </div>
     </div>
+</div>
 
     <?php get_footer(); ?>

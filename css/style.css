@@ -575,6 +575,7 @@
   text-align: center;
   font-size: 16px;
   line-height: 24px;
+  vertical-align: middle;
 }
 .p-ice_wrap_table_wrap_tbody_tr td a {
   font-size: 16px;
